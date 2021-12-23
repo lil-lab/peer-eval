@@ -138,8 +138,7 @@ This results in about a 10% deduction for Michael.
 
 ## Acknowledgments
 
-This evaluation scheme and its documentation were cloned (with slight modification) from [CS 3110 at Cornell](https://www.cs.cornell.edu/courses/cs3110/2020sp/proj/peer_eval.html). 
-The core of this rating scheme has been examined and found to be highly useful and infrequently problematic in three academic publications:
+This evaluation scheme was created by [Michael Clarkson](https://www.cs.cornell.edu/~clarkson/). The instructions and form were cloned (with slight modifications) from [CS 3110 at Cornell](https://www.cs.cornell.edu/courses/cs3110/2020sp/proj/peer_eval.html). The core of this rating scheme has been examined and found to be highly useful and infrequently problematic in three academic publications:
 
 - R.W. Brown. Autorating: Getting Individual Marks from Team Marks and Enhancing Teamwork. IEEE Frontiers in Education Conference, 1995.
 - D.B. Kaufman, R.M. Felder, H.Fuller. Accounting for Individual Effort in Cooperative Learning Teams. J. Engr. Education 89(2): 133-140, 2000.
